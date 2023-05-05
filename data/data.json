@@ -1,0 +1,1322 @@
+[
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "CHANCE",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:44:24",
+    "updated_at": "2021-11-09 07:44:24"
+  },
+  {
+    "ide_producto": 5,
+    "ide_tipoproducto": 7,
+    "ide_categoria": 1,
+    "des_producto": "SUPER ASTRO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:44:44",
+    "updated_at": "2021-11-09 07:44:44"
+  },
+  {
+    "ide_producto": 17286,
+    "ide_tipoproducto": 3,
+    "ide_categoria": 1,
+    "des_producto": "CHANCE MILLONARIO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:47:39",
+    "updated_at": "2021-11-09 07:47:39"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "RECARGAS EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:49:05",
+    "updated_at": "2021-11-09 07:49:05"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "LOTERIA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:49:38",
+    "updated_at": "2021-11-09 07:49:38"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 3,
+    "ide_categoria": 1,
+    "des_producto": "DOBLE CHANCE",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:49:52",
+    "updated_at": "2021-11-09 07:49:52"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO EMPRESARIAL",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:50:08",
+    "updated_at": "2021-11-09 07:50:08"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 17,
+    "ide_categoria": 12,
+    "des_producto": "GIROS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-09 07:50:43",
+    "updated_at": "2021-11-09 07:50:43"
+  },
+  {
+    "ide_producto": 37,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "CUATRO X 4",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:40",
+    "updated_at": "2021-11-16 09:19:40"
+  },
+  {
+    "ide_producto": 21974,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "PATA MILLONARIA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:40",
+    "updated_at": "2021-11-16 09:19:40"
+  },
+  {
+    "ide_producto": 8749,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "MILLONARIO 3CF",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:40",
+    "updated_at": "2021-11-16 09:19:40"
+  },
+  {
+    "ide_producto": 1,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "CHANCE",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:40",
+    "updated_at": "2021-11-16 09:19:40"
+  },
+  {
+    "ide_producto": 38,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "MILLONARIO 4CF",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:41",
+    "updated_at": "2021-11-16 09:19:41"
+  },
+  {
+    "ide_producto": 36,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "TRIKI SUERTE",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:41",
+    "updated_at": "2021-11-16 09:19:41"
+  },
+  {
+    "ide_producto": 21976,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "Fortuna 5",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:41",
+    "updated_at": "2021-11-16 09:19:41"
+  },
+  {
+    "ide_producto": 2,
+    "ide_tipoproducto": 1,
+    "ide_categoria": 1,
+    "des_producto": "FUTURAS",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:19:41",
+    "updated_at": "2021-11-16 09:19:41"
+  },
+  {
+    "ide_producto": 9728,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO ACUEDUCTO POPAYAN",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 13243,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO CODELCAUCA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 14324,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO REGISTRADURIA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21965,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO CABLE CAUCA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22018,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO EMONKEY",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22021,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC ELECTROCREDITOS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22019,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUCO EPAYCO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 35,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "BASE ASESORA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 9920,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO AXA COLPATRIA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21624,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO JARDINES DE PAZ",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21706,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO LEONISA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21938,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO SAFETYPAY",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21995,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "ESIKA LBEL CYZONE",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21998,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "FUNDAFAST",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22001,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC GLOBAL RAICES",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22002,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO REAL HUMAN",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22039,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "SURGAS CODBARRAS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 6972,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO DOBLE CLICK",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21939,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO DOLCE",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21966,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO MARKETING",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21969,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC PACIFIKA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21970,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC YERBABUENA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22000,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO TIERRANET",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22014,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO ONE SHOT",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22012,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO MI CUENTA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 11289,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO COLPENSIONES",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21937,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO PAYVALIDA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21967,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO COMFACAUCA COD BARRAS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21993,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO DE CREDITOS COMFACAUCA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22004,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO AFROCAUCANA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21992,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO AVANTEL",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21990,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "ACUEDUCT EMQUILICHAO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22013,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO DUPREE",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22025,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC PPS VOLUNTARIO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22030,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "ENERGETICA OFF LINE",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21950,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "ENERGETICA EN LINEA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21968,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC LOGUIN",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22036,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "CONEXION WI FI",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 22034,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO CUENTA POWWI",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 51,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO SURGAS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 14191,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO EMTEL",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:21",
+    "updated_at": "2021-11-16 09:24:21"
+  },
+  {
+    "ide_producto": 21952,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO YANBAL",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 21971,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC CARMEL",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 22033,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO AVON",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 22038,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO TU COMPRA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 11915,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO PAYU",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 16750,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "BANCO MUNDO MUJER",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 21403,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "Recaudo Camara y comercio del cauca",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 21983,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO MI BOLSILLO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 21997,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "PRECAVID",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 22026,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "REC PPS OBLIGATORIO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 22027,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO WOM",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 22031,
+    "ide_tipoproducto": 5,
+    "ide_categoria": 2,
+    "des_producto": "RECAUDO COOPCRECIENDO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:24:22",
+    "updated_at": "2021-11-16 09:24:22"
+  },
+  {
+    "ide_producto": 8,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "TIGO CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 21933,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "EXITO CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 22023,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "WOM CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 7,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "MOVISTAR CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 21949,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES CLARO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 21978,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES MOVISTAR",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:29",
+    "updated_at": "2021-11-16 09:27:29"
+  },
+  {
+    "ide_producto": 12,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "DIRECTV CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 21932,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES TIGO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 22015,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES EXITO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 21934,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "FLASH MOBILE CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 21980,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES VIRGIN",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 6,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "CLARO CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 30,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "VIRGIN MOVILE CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 9,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "UFF MOVIL CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 3616,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "ETB CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 17287,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "BET PLAY",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 22017,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PINES NETFLIX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 22024,
+    "ide_tipoproducto": 6,
+    "ide_categoria": 4,
+    "des_producto": "PAQUETES WOM CX",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:27:30",
+    "updated_at": "2021-11-16 09:27:30"
+  },
+  {
+    "ide_producto": 14,
+    "ide_tipoproducto": 17,
+    "ide_categoria": 12,
+    "des_producto": "PAGO GIRO MIGIRO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:29:21",
+    "updated_at": "2021-11-16 09:29:21"
+  },
+  {
+    "ide_producto": 13,
+    "ide_tipoproducto": 17,
+    "ide_categoria": 12,
+    "des_producto": "ENVIO  GIRO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-16 09:29:21",
+    "updated_at": "2021-11-16 09:29:21"
+  },
+  {
+    "ide_producto": 27,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "SANTANDER EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 17,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "CUNDINAMARCA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 22037,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "QUINTAZO MANIZALES",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 22009,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "EXTRA VALLE + ROJA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 18,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "TOLIMA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 20,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "HUILA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 29,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "EXTRA DE COLOMBIA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 21,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "MANIZALES EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 15,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "CAUCA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 16,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "BOYACA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 21942,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "EXTRAORDINARIO DEL CAUCA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 21943,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "EXTRAORDINARIO DE BOYACA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 23,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "META EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 5329,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "Extra de la cruz roja ",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:17",
+    "updated_at": "2021-11-19 11:24:17"
+  },
+  {
+    "ide_producto": 22,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "VALLE EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 19,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "CRUZ ROJA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 24,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "BOGOTA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 28,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "RISARALDA EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 21936,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "MEDELLIN EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 22041,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "GRAN EXTRA PIJAO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 25,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "QUINDIO EN LINEA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 22008,
+    "ide_tipoproducto": 2,
+    "ide_categoria": 1,
+    "des_producto": "EXTRA DORADO BOGOTA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:24:18",
+    "updated_at": "2021-11-19 11:24:18"
+  },
+  {
+    "ide_producto": 21941,
+    "ide_tipoproducto": 3,
+    "ide_categoria": 1,
+    "des_producto": "3C DOBLE CH REGIONAL",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:36:55",
+    "updated_at": "2021-11-19 11:36:55"
+  },
+  {
+    "ide_producto": 21940,
+    "ide_tipoproducto": 3,
+    "ide_categoria": 1,
+    "des_producto": "4C DOBLE CH REGIONAL",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-19 11:36:55",
+    "updated_at": "2021-11-19 11:36:55"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 7,
+    "ide_categoria": 1,
+    "des_producto": "SUPER ASTRO",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-24 12:03:05",
+    "updated_at": "2021-11-24 12:03:05"
+  },
+  {
+    "ide_producto": 17900,
+    "ide_tipoproducto": 12,
+    "ide_categoria": 7,
+    "des_producto": "PAGO ADULTO MAYOR",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:24:18",
+    "updated_at": "2021-11-24 13:24:18"
+  },
+  {
+    "ide_producto": 17288,
+    "ide_tipoproducto": 12,
+    "ide_categoria": 7,
+    "des_producto": "RETIROS BET PLAY",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:24:18",
+    "updated_at": "2021-11-24 13:24:18"
+  },
+  {
+    "ide_producto": 6555,
+    "ide_tipoproducto": 13,
+    "ide_categoria": 8,
+    "des_producto": "GIRO SEGURO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:26:55",
+    "updated_at": "2021-11-24 13:26:55"
+  },
+  {
+    "ide_producto": 22005,
+    "ide_tipoproducto": 18,
+    "ide_categoria": 13,
+    "des_producto": "TRANSACCIONES CB",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:30:17",
+    "updated_at": "2021-11-24 13:30:17"
+  },
+  {
+    "ide_producto": 21991,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGOS AUXILIO VEJEZ",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22032,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGOS COOPCRECIENDO",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22040,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGOS ENREDARTE",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 21988,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGO FUNDACION FUNOF",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 21953,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGO MANAGER",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22011,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "RETIRO DE MI CUENTA",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22035,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "RETIRO CUENTA POWWI",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22010,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "SUBSIDIOS FOSFEC",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:35:33",
+    "updated_at": "2021-11-24 13:35:33"
+  },
+  {
+    "ide_producto": 22044,
+    "ide_tipoproducto": 39,
+    "ide_categoria": 1,
+    "des_producto": "INSTANTANEAS",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:38:33",
+    "updated_at": "2021-11-24 13:38:33"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 12,
+    "ide_categoria": 7,
+    "des_producto": "PAGOS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:47:02",
+    "updated_at": "2021-11-24 13:47:04"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 13,
+    "ide_categoria": 8,
+    "des_producto": "SEGUROS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:47:40",
+    "updated_at": "2021-11-24 13:47:41"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 18,
+    "ide_categoria": 13,
+    "des_producto": "TRANSACCIONES CNB",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:47:59",
+    "updated_at": "2021-11-24 13:48:00"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 31,
+    "ide_categoria": 25,
+    "des_producto": "PAGOS GENÉRICOS",
+    "transaccional": 1,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:48:19",
+    "updated_at": "2021-11-24 13:48:21"
+  },
+  {
+    "ide_producto": null,
+    "ide_tipoproducto": 39,
+    "ide_categoria": 1,
+    "des_producto": "RASPITA",
+    "transaccional": null,
+    "txcontrol": null,
+    "created_at": "2021-11-24 13:48:39",
+    "updated_at": "2021-11-24 13:48:41"
+  }
+]
