@@ -13,29 +13,46 @@
     <link href="./css/index.css" rel="stylesheet" />
   </head>
   <body>
-    <div class="table-responsive">
-      <table class="table table-dark">
-        <thead>
-          <tr>
-            <th scope="col">Title</th>
-            <th scope="col">ID</th>
-            <th scope="col">Description</th>
-            <th scope="col">StreamFormat</th>
-            <th scope="col">Background</th>
-            <th scope="col">Poster</th>
-            <th scope="col">URL</th>
-            <th scope="col">GUID</th>
-            <th scope="col">Category</th>
-            <th scope="col">Tags</th>
-          </tr>
-        </thead>
-        <tbody id="table-body">
-          <tr>
-            <td colspan="10">Loading...</td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="container-fluid mt-3">
+      <div class="row my-3">
+        <h4>Media</h4>
+        <form class="d-flex" id="form-search">
+          <input
+            class="form-control me-2"
+            type="search"
+            placeholder="Search by title, id, description, stream format, GUID, category, tags"
+            aria-label="Search"
+          />
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+      <div class="row">
+        <div class="table-responsive">
+          <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col">Title</th>
+                <th scope="col">ID</th>
+                <th scope="col">Description</th>
+                <th scope="col">StreamFormat</th>
+                <th scope="col">Background</th>
+                <th scope="col">Poster</th>
+                <th scope="col">URL</th>
+                <th scope="col">GUID</th>
+                <th scope="col">Category</th>
+                <th scope="col">Tags</th>
+              </tr>
+            </thead>
+            <tbody id="table-body">
+              <tr>
+                <td colspan="10">Loading...</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
+
     <script
       src="https://code.jquery.com/jquery-3.6.4.min.js"
       integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="

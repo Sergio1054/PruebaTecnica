@@ -1,10 +1,12 @@
 $(document).ready(function () {
+  let original_data = [];
   /**
    *
    * @param {*} bodyTable
    * @param {*} data
    */
   function buildBodyTable(bodyTable, data) {
+    bodyTable.empty();
     data.forEach((element) => {
       bodyTable.append(buildRow(element));
     });
@@ -40,7 +42,11 @@ $(document).ready(function () {
     });
     return cell;
   }
-
+  /**
+   *
+   * @param {*} url
+   * @returns
+   */
   function buildCellWithImage(url) {
     const cell = $("<td>");
     const image = $("<img>", {
@@ -51,6 +57,8 @@ $(document).ready(function () {
   }
   /**
    *
+   * @param {*} url
+   * @returns
    */
   function buildCellWithLink(url) {
     const cell = $("<td>", {
@@ -63,19 +71,43 @@ $(document).ready(function () {
     cell.append(link);
     return cell;
   }
-  /**
-   *
-   */
+
   function bootstrap() {
     $.get(
       "https://6454ff2ea74f994b334eff5e.mockapi.io/channels",
-      function (data) {
+      function (new_data) {
         let table = $("#table-body");
-        table.empty();
-        buildBodyTable(table, data);
+        original_data = new_data;
+        buildBodyTable(table, original_data);
       }
     );
   }
+  $("#form-search").submit(function (e) {
+    e.preventDefault();
+    const fields_to_filter = [
+      "Title",
+      "ID",
+      "Description",
+      "StreamFormat",
+      "GUID",
+      "Category",
+    ];
+    const filter = $(e.target).find("input").val().toLowerCase();
+    const filtered_data = original_data.filter(function (e) {
+      for (const field of fields_to_filter) {
+        if (e[field].toLowerCase().includes(filter)) {
+          return true;
+        }
+      }
+      for (const tag of e.Tags) {
+        if (tag.toLowerCase().includes(filter)) {
+          return true;
+        }
+      }
+      return false;
+    });
+    buildBodyTable($("#table-body"), filtered_data);
+  });
 
   bootstrap();
 });
